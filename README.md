@@ -93,5 +93,5 @@ GUI-based version
 
 👤 AUTHOR
 
-Sasank
+Kavali Venkat Sasank Reddy
 B.Tech – Artificial Intelligence & Data Science
